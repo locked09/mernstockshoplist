@@ -1,3 +1,3 @@
 module.exports = {
-    mongoURI: 'mongodb+srv://nodecomplete:nodecomplete@cluster0.bndgo.mongodb.net/mern_shopping'
+    mongoURI: 'mongodb+srv://<username>:<password>@cluster0.bndgo.mongodb.net/mern_shopping'
 }
